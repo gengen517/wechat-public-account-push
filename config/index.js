@@ -35,13 +35,13 @@ export const config = {
       // 扫码关注你的微信测试号后生成的一段字符串，在测试号后台能看到
       id: "ogncX6hvqAdXuInwdoTm-c1esTy8",
       // 你想对他发送的模板消息的模板ID
-      useTemplateId: "onZsIXU6RW1NnQxY_CCmPnrJZJtM4oN-xNzL1z8we0c",
+      useTemplateId: "feRLtVoH66ZxM36pVd4_HDXq7r_YlGnaMsdodi2v1oA",
       // 所在省份
       province: "陕西",
       // 所在城市
       city: "西安",
       // 他点击详情后跳转的页面,你可以设置成微博的热榜，也可以设置成其他，网址一定要填对；不填对也没关系，随便你，会打不开而已。
-      openUrl: ""
+      openUrl: "www.baidu.com"
     }
   ],
 
@@ -50,7 +50,8 @@ export const config = {
    */
 
   // 回调消息模板id, 用来看自己有没有发送成功的那个模板
-  CALLBACK_TEMPLATE_ID: "zjV1glIuCXo4Csr23aXWEio1iP74sZJ7IQEES95lDsg6c4yOU",
+  // CALLBACK_TEMPLATE_ID: "zjV1glIuCXo4Csr23aXWEio1iP74sZJ7IQEES95lDsg6c4yOU",
+  CALLBACK_TEMPLATE_ID: "feRLtVoH66ZxM36pVd4_HDXq7r_YlGnaMsdodi2v1oA",
 
   // 接收成功回调消息的微信号，（一般来说只填自己的微信号, name填不填无所谓）
   CALLBACK_USERS: [
