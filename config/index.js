@@ -33,6 +33,20 @@ export const config = {
       // 想要发送的人的名字
       name: "糯米",
       // 扫码关注你的微信测试号后生成的一段字符串，在测试号后台能看到
+      id: "ogncX6h890p8zA5oKKhJ2S9O52LQ",
+      // 你想对他发送的模板消息的模板ID
+      useTemplateId: "RQ_Yp4HBZ0YGEa9g7hOmJ0WZ_g7F-7_IY8rpi_fd31g",
+      // 所在省份
+      province: "陕西",
+      // 所在城市
+      city: "西安",
+      // 他点击详情后跳转的页面,你可以设置成微博的热榜，也可以设置成其他，网址一定要填对；不填对也没关系，随便你，会打不开而已。
+      openUrl: "www.baidu.com"
+    },
+    {
+      // 想要发送的人的名字
+      name: "根根",
+      // 扫码关注你的微信测试号后生成的一段字符串，在测试号后台能看到
       id: "ogncX6hvqAdXuInwdoTm-c1esTy8",
       // 你想对他发送的模板消息的模板ID
       useTemplateId: "RQ_Yp4HBZ0YGEa9g7hOmJ0WZ_g7F-7_IY8rpi_fd31g",
